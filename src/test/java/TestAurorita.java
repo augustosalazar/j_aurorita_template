@@ -7,6 +7,8 @@ import com.uninorte.Student;
 import com.uninorte.Teacher;
 
 public class TestAurorita {
+
+    // Teacher, Course and Student accept an Id in the constructor
     
     @Test
     public void testCourse() {
